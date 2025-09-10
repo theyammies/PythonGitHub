@@ -99,7 +99,7 @@ for i in range(5):
 
 ### Results
 
-![Trending TOp Skills fo Data Analysts in the US for 2023](images\trending_skills_DA_2023.png)
+![Trending Top Skills](https://raw.githubusercontent.com/theyammies/PythonGitHub/main/images/trending_skills_DA_2023.png)
 
 *Line graph visualizing the trending top skills for data analysts in the US in 2023*
 
@@ -153,7 +153,7 @@ sns.barplot(data=df_DA_top_pay, x='median', y=df_DA_top_pay.index, hue='median',
 sns.barplot(data=df_DA_top_skills, x='median', y=df_DA_top_skills.index, hue='median', ax=ax[1], palette='pastel')
 ```
 #### Results
-![Highest Paid Skills & Most In_Demand Skills Among Data Analysts](images\skills_DA.png) *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.
+![Highest Paid Skills & Most In_Demand Skills Among Data Analysts](images/skills_DA.png) *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.
 
 
 #### Insights
@@ -176,7 +176,7 @@ sns.scatterplot(
 ```
 
 #### Results
-![Most Optimal SKills for Data Analysts in the US](images\optimal_skills.png)*A scatter plot visualizing the most optimal skills (high paying & high demand) for data analyts in the US.*
+![Most Optimal SKills for Data Analysts in the US](images/optimal_skills.png)*A scatter plot visualizing the most optimal skills (high paying & high demand) for data analyts in the US.*
 
 #### Insights
 - THe scatter plot shows that most of the `programming` skills (colored blue) tend to cluster at higher salary levels compared to other categories, indicating that programming expertise might offer greater salary benefits within the data analytics field.
