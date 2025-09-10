@@ -71,7 +71,7 @@ plt.show()
 ```
 
 ### Results
-![Visualization of Tops Skills for Top 3 Data Roles](images\Skills_demand_top3_roles.png)
+![Visualization of Tops Skills for Top 3 Data Roles](images/Skills_demand_top3_roles.png)
 
 
 ### Insights
@@ -128,7 +128,7 @@ plt.show()
 
 #### Results
 
-![Salary of Data Related Jobs](images\salary_by_job.png)*Box plot visualizing the salary distributions for the top 6 data job titles.*
+![Salary of Data Related Jobs](images/salary_by_job.png)*Box plot visualizing the salary distributions for the top 6 data job titles.*
 
 #### Insights
 - there is a signficant variation in salar range across different job titles.  Senior Data cientis positions tend to have the highest salary potential, with up to $600K, indicating the hight value placed on advanced data skills and experience in the industry
